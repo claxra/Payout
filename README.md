@@ -7,7 +7,7 @@
    <p>A platform that enables decentralised governance and automatic transfers of pension funds for your retirement. Future protection done decentralised.<p/>
 </div>
 
-![Landing](https://github.com/claxra/Payout/assets/135507633/58e70bb4-7220-4516-b05f-368fba7ab4db)
+![Landing](https://github.com/claxra/Payout/assets/135507633/dc6e8e0f-8e8b-4343-ab16-599e497b65e1)
 
 
 ## Technologies Used
@@ -43,18 +43,18 @@ Web3 technology, specifically blockchain and smart contracts, can potentially im
 <table>
 <tr>
         <td colspan="2">
-            <img src="https://github.com/claxra/Payout/assets/135507633/53bb1b98-c935-45c3-8903-bc6a9713ec7c" alt="Hero section" style="border-radius:10px"/>
+            <img src="https://github.com/claxra/Payout/assets/135507633/bb19d9a3-9a29-4ba7-98ac-998dad2992ff" alt="Hero section" style="border-radius:10px"/>
             <br />
             <p align="center">Dashboard</p>
         </td>
     </tr>
     <tr>
         <td width="50%">
-             <img src="https://github.com/claxra/Payout/assets/135507633/543816fc-76dc-46c6-a6f2-6cabe477ee00" alt="Hero section" style="border-radius:10px"/>
+             <img src="https://github.com/claxra/Payout/assets/135507633/7866a389-40f9-401f-8187-f8a2cec6fc04" alt="Hero section" style="border-radius:10px"/>
             <br />
             <p align="center">Company Registration</p></td>
         <td width="50%">
-            <img src="https://github.com/claxra/Payout/assets/135507633/9417b329-5da7-4533-b404-9e3d01d109c4" alt="Dashboard" style="border-radius:10px"/>
+            <img src="https://github.com/claxra/Payout/assets/135507633/710930f9-06d0-45ee-94da-53c2b5cce929" alt="Dashboard" style="border-radius:10px"/>
             <br />
             <p align="center">Pension Proposal</p></td>
     </tr>
